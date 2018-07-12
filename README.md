@@ -1,1 +1,1 @@
-# LiveHelperChat-Firebase-concatination-layer-php
+# LiveHelperChat-Firebase-connection-layer-php
